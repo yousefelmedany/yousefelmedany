@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yousefelmedany
 - 👀 I’m interested in coding and AI applications , actually i am studying software engineerng at facuty of engineering ,alexandria university 
 - 🌱 I’m currently learning Flutter , and other related software engineering frameworks. 
-- i can develop in c, c++, java and python.
+- 👀 I can develop in c, c++, java and python.
 - 💞️ I’m looking to collaborate on different programming projects.
 - 📫 How to reach me ,you can reach me through my email yousefelmedany72@gmail.com
 
