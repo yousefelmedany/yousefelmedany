@@ -2,8 +2,8 @@
 <h3 align="center" font-weight="bold">A passionate Computer Engineering student</h3>
 
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
-
+<!-- ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+ -->
 
 # 💫 About Me:
 🔭 I’m currently working on [PintOs](https://github.com/SajedHassan/CSEx61-pintos)<br>🌱 I’m currently learning Functional Programming<br>💬 Ask me about Angular8, Java, C++, Arduino, APIs, DataStructures, Algorithms<br>📫 How to reach me yousefelmedany72@gmail.com<br>
