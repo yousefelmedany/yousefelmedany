@@ -22,7 +22,7 @@
 <br>
 &diams; (YAAMAIL) an Email Server ------>
 <br>
-&diams; Repairing and Adding Some Functionalities in PINT_OS --->
+&diams; Repairing and Adding Some Functionalities to PINT_OS --->
 <br>
 &diams; Web Based Game Engine That Provides 6 Games --->
 <br>
