@@ -4,7 +4,7 @@
 <img style="width: 800px; height:500px" src="https://media2.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e477jyuxqsmn0grkpreozk1ra2ux2ghdfx5ec91olui&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </div>
 <br>
-<h1 color="#8B0000" align="center" style="font-size: 80px;">Hello 👋, I'm Yousef Elmedany</h1>
+<h1 color="#8B0000" align="center">Hello 👋, I'm Yousef Elmedany</h1>
 <br>
 
 # 💫 About Me: 
@@ -174,15 +174,15 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledBadranDev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Yousef Elmedany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousefelmedany&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=yousefelmedany&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefelmedany&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div> -->
+
 <!--  End Stats Cards -->
 
 ---
