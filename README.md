@@ -3,6 +3,9 @@
 <div align="center">
 <img style="width: 800px; height:500px" src="https://media2.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e477jyuxqsmn0grkpreozk1ra2ux2ghdfx5ec91olui&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </div>
+<br>
+<div color="#8B0000" align="center" style="font-size: 80px;">Hello 👋, I'm Yousef Elmedany</div>
+<br>
 
 # 💫 About Me: 
 <div>
