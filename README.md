@@ -10,8 +10,8 @@
 <div>
 
 <p style=" font-size: 15px;" >
-    A Passionale Learner ✨. I am pursuing a degree in Computer Engineering from Faculty of Engineering, Alexandria University 👨🏻‍💻 . I have Worked Previously on a bunch of Projects using different Technologies and languages Tools. I am looking forward to improving my skills day by day by working and joining different projects and activities.
-    Here you can take a look on my previous Work 👀:
+    A Passionale Learner ✨. I am pursuing a degree in computer engineering from the Faculty of Engineering, Alexandria University 👨🏻‍💻. I have previously worked on a bunch of projects using different technological and languages tools. I am looking forward to improving my skills day by day by working on and joining different projects and activities.
+    Here you can take a look at my previous work 👀:
 <br> 
 <br> 
 &diams; Dots and Boxes Game (Developed in C) ---->  
