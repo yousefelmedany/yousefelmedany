@@ -5,7 +5,6 @@
 </div>
 <br>
 <h1 color="#8B0000" align="center">Hello 👋, I'm Yousef Elmedany</h1>
-<br>
 
 # 💫 About Me: 
 <div>
