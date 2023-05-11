@@ -1,26 +1,46 @@
-<h1 align="center" color="#8B0000">Hello 👋, I'm Yousef Elmedany</h1>
-<h3 align="center" font-weight="bold">A passionate Computer Engineering student</h3>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Yousef Elmedany </h1>
 
+<div align="center">
+<img style="width: 800px; height:500px" src="https://media2.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e477jyuxqsmn0grkpreozk1ra2ux2ghdfx5ec91olui&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+</div>
 
-<!-- ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
- -->
+# 💫 About Me: 
+<div>
 
-# 💫 About Me:
-🔭 I’m currently working on [PintOs](https://github.com/SajedHassan/CSEx61-pintos)<br>🌱 I’m currently learning Functional Programming<br>💬 Ask me about Angular8, Java, C++, Arduino, APIs, DataStructures, Algorithms<br>📫 How to reach me yousefelmedany72@gmail.com<br>
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
+<p style=" font-size: 15px;" >
+    A Passionale Learner ✨. I am pursuing a degree in Computer Engineering from Faculty of Engineering, Alexandria University 👨🏻‍💻 . I have Worked Previously on a bunch of Projects using different Technologies and languages Tools. I am looking forward to improving my skills day by day by working and joining different projects and activities.
+    Here you can take a look on my previous Work 👀:
+<br> 
+<br> 
+&diams; Dots and Boxes Game (Developed in C) ---->  
 <br>
+&diams; Web Based Calculator ---------> 
+<br>
+&diams; Web Based Paint Application ---->  
+<br>
+&diams; (YAAMAIL) an Email Server ------>
+<br>
+&diams; Repairing and Adding Some Functionalities in PINT_OS --->
+<br>
+&diams; Web Based Game Engine That Provides 6 Games --->
+<br>
+&diams; Game Engine Using Functional Programming with Scala --->
 <br>
 <div align="center">
 
-[Email Me](mailto:yousefelmedany72@gmail.com)
+[Email Me Now!](mailto:yousefelmedany72@gmail.com)
 </div>
 </p>    
 <br>
 <!-- Languages and Tools -->
+</div>
+
+
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -35,20 +55,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -59,38 +70,15 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
-  <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  </a>
+
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
@@ -98,10 +86,77 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
+    <a target="_blank" rel="noreferrer">
+      <img  alt="Angular" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"/> 
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Arduino" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg"/> 
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Dart" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg"/> 
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Angular" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg"/> 
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Flutter" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"/> 
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Illustrator" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg"/> 
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"/> 
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="NumPy" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg"/> 
+  </a>
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Photoshop" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg"/> 
+  </a>
+    </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Premiere Pro" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg"/> 
+  </a>
+    </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Pycharm" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original.svg"/> 
+  </a> 
+   </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Qt Creator" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg"/> 
+  </a> 
+  </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="R" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg"/> 
+  </a>
+    </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Scala" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/scala/scala-original.svg"/> 
+  </a>
+    </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Spring" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/> 
+  </a>
+    </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Ubuntu" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg"/> 
+  </a>
+    </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Visula Studio" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"/> 
+  </a>
+    </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="WooCommerce" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/woocommerce/woocommerce-original.svg"/> 
+  </a>
+    </a>
+      <a target="_blank" rel="noreferrer">
+      <img  alt="Wordpress" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg"/> 
+  </a>
 </div>
 <br>
 <br>
-
 
 <!-- Statistics -->
 
@@ -132,15 +187,21 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
     </a>
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
+        <a href="https://www.linkedin.com/in/yousef-elmedany/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://raw.githubusercontent.com/yousefelmedany/yousefelmedany/a92c7972f38a3b530aadb5192a07a57e1e21ac26/icons8-linkedin.svg" alt="Linkedin" width="40px"/>
     </a>
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
+    </a>
+        <a href="mailto:yousefelmedany72@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
+    <a href="https://www.facebook.com/yousef.elmedany" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://raw.githubusercontent.com/yousefelmedany/yousefelmedany/d03329e3ca6e4d6050b5b7d19c8b91730610b9ec/icons8-facebook-96.svg" alt="Facebook" width="40px"/>
+    </a>
+    <a href="https://www.instagram.com/yousefelmedanyy/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://raw.githubusercontent.com/yousefelmedany/yousefelmedany/67713962e8db0cbd75681584e428210707e6bfe8/icons8-instagram.svg" alt="Instagram" width="40px"/>
+    </a>
+
 </div>
 <!-- End Footer -->
 
