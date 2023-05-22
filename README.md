@@ -14,21 +14,21 @@
     Here you can take a look at my previous work 👀:
 <br> 
 <br> 
-&diams; Web Based Game Engine in JS That Provides 6 Games --->
+&diams; Web Based Game Engine in JS That Provides 6 Games ---> <a href="https://github.com/yousefelmedany/Game_Engine-JS">[1]</a>
 <br>
-&diams; Game Engine in Scala Applying Functional Paradigm--->
+&diams; Game Engine in Scala Applying Functional Paradigm---> <a href="https://github.com/yousefelmedany/Scala-Game_Engine">[2]</a>
 <br>
-&diams; (YAAMAIL) an Email Server ------>
+&diams; (YAAMAIL) an Email Server ------> <a href="https://github.com/yousefelmedany/YAAMail-Email_Server">[3]</a>
 <br>
-&diams; Repairing and Adding Some Functionalities to PINT_OS --->
+&diams; Repairing and Adding Some Functionalities to PINT_OS ---> <a href="https://github.com/yousefelmedany/PINTOS">[4]</a>
 <br>
-&diams; Web Based Paint Application ---->  
+&diams; Web Based Paint Application ----> <a href="https://github.com/yousefelmedany/Paint_Application">[5]</a>
 <br>
-&diams; Web Based Calculator ---------> 
+&diams; Web Based Calculator ---------> <a href="https://github.com/yousefelmedany/Web-Based-Calculator">[6]</a>
 <br>
-&diams; Dots and Boxes Game (Developed in C) ---->  
+&diams; Dots and Boxes Game (Developed in C) ----> <a href="https://github.com/yousefelmedany/Dots_and_Boxes">[7]</a>
 <br>
-&diams; For more work, Take a look on my repos ----> [Email Me Now!](https://github.com/yousefelmedany?tab=repositories)
+&diams; For more work, <a href="https://github.com/yousefelmedany?tab=repositories"> Click here</a>
 <br>
     
     
