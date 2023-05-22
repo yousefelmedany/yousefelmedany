@@ -14,20 +14,24 @@
     Here you can take a look at my previous work 👀:
 <br> 
 <br> 
-&diams; Dots and Boxes Game (Developed in C) ---->  
+&diams; Web Based Game Engine in JS That Provides 6 Games --->
 <br>
-&diams; Web Based Calculator ---------> 
-<br>
-&diams; Web Based Paint Application ---->  
+&diams; Game Engine in Scala Applying Functional Paradigm--->
 <br>
 &diams; (YAAMAIL) an Email Server ------>
 <br>
 &diams; Repairing and Adding Some Functionalities to PINT_OS --->
 <br>
-&diams; Web Based Game Engine That Provides 6 Games --->
+&diams; Web Based Paint Application ---->  
 <br>
-&diams; Game Engine Using Functional Programming with Scala --->
+&diams; Web Based Calculator ---------> 
 <br>
+&diams; Dots and Boxes Game (Developed in C) ---->  
+<br>
+&diams; For more work, Take a look on my repos ----> [Email Me Now!](https://github.com/yousefelmedany?tab=repositories)
+<br>
+    
+    
 <div align="center">
 
 [Email Me Now!](mailto:yousefelmedany72@gmail.com)
